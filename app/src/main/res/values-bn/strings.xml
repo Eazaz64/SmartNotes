@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">স্মার্ট নোটস</string>
+    <string name="search_hint">নোট খুঁজুন</string>
+    <string name="notes">নোট</string>
+    <string name="archive">আর্কাইভ</string>
+    <string name="trash">ট্র্যাশ</string>
+    <string name="labels">লেবেল</string>
+    <string name="edit_labels">লেবেল এডিট</string>
+    <string name="backup">নোট ব্যাকআপ</string>
+    <string name="restore_backup">ব্যাকআপ থেকে ফেরত</string>
+    <string name="language">ভাষা</string>
+    <string name="lang_system">ফোনের ভাষা</string>
+    <string name="pinned">পিন করা</string>
+    <string name="others">অন্যান্য</string>
+    <string name="empty_notes">আপনার নোট এখানে দেখাবে</string>
+    <string name="empty_archive">আর্কাইভ করা নোট এখানে দেখাবে</string>
+    <string name="empty_trash">ট্র্যাশে কোনো নোট নেই</string>
+    <string name="empty_search">মিলে এমন কোনো নোট নেই</string>
+    <string name="empty_label">এই লেবেলে এখনো কোনো নোট নেই</string>
+    <string name="trash_info">ট্র্যাশের নোট ৭ দিন পর মুছে যায়।</string>
+    <string name="empty_trash_btn">ট্র্যাশ খালি করুন</string>
+    <string name="empty_trash_confirm">ট্র্যাশের সব নোট চিরতরে মুছবেন?</string>
+    <string name="title_hint">শিরোনাম</string>
+    <string name="note_hint">নোট</string>
+    <string name="list_item">তালিকার আইটেম</string>
+    <string name="checked_items">%1$dটি টিক দেওয়া</string>
+    <string name="more_items">+ আরও %1$dটি</string>
+    <string name="note_trashed">নোট ট্র্যাশে গেছে</string>
+    <string name="note_archived">নোট আর্কাইভ হয়েছে</string>
+    <string name="empty_discarded">খালি নোট বাদ দেওয়া হয়েছে</string>
+    <string name="undo">আগের মতো</string>
+    <string name="restore">ফেরত আনুন</string>
+    <string name="delete_forever">চিরতরে মুছুন</string>
+    <string name="trashed_note">এই নোটটি ট্র্যাশে আছে</string>
+    <string name="share">শেয়ার</string>
+    <string name="share_image">ছবি হিসেবে</string>
+    <string name="share_pdf">PDF হিসেবে</string>
+    <string name="share_text">লেখা হিসেবে</string>
+    <string name="color">রং</string>
+    <string name="pin">পিন</string>
+    <string name="unpin">আনপিন</string>
+    <string name="archive_action">আর্কাইভ</string>
+    <string name="unarchive">আর্কাইভ থেকে সরান</string>
+    <string name="delete">মুছুন</string>
+    <string name="show_checkboxes">চেকবক্স দেখান</string>
+    <string name="hide_checkboxes">চেকবক্স লুকান</string>
+    <string name="calc_on">অটো হিসাব চালু</string>
+    <string name="calc_off">অটো হিসাব বন্ধ</string>
+    <string name="total">মোট: %1$s</string>
+    <string name="edited">এডিট: %1$s</string>
+    <string name="new_note">নতুন নোট</string>
+    <string name="new_list">নতুন তালিকা</string>
+    <string name="create_label">নতুন লেবেল</string>
+    <string name="add">যোগ</string>
+    <string name="done">ঠিক আছে</string>
+    <string name="cancel">বাতিল</string>
+    <string name="delete_label">লেবেল মুছুন</string>
+    <string name="backup_done">ব্যাকআপ সেভ হয়েছে</string>
+    <string name="restore_done">%1$dটি নোট ফেরত এসেছে</string>
+    <string name="restore_failed">এই ব্যাকআপ ফাইল পড়া যায়নি</string>
+    <string name="back">পেছনে</string>
+    <string name="menu">মেনু</string>
+    <string name="clear">মুছুন</string>
+    <string name="calc_tip">টিপস: লাইনের শেষে = দিলে হিসাব হবে (10+20 =)। তালিকার নিচে total = বা মোট = লিখলে যোগফল আসবে।</string>
+    <string name="calculation">হিসাব</string>
+    <string name="calc_mode">হিসাবের মোড</string>
+    <string name="mode_auto">অটো</string>
+    <string name="mode_manual">ম্যানুয়াল</string>
+    <string name="mode_off">বন্ধ</string>
+    <string name="mode_default">অ্যাপের ডিফল্ট (%1$s)</string>
+    <string name="mode_auto_desc">নিজে থেকে মোট করে। রঙিন সংখ্যায় ট্যাপ করে বাদ দিন।</string>
+    <string name="mode_manual_desc">total = লিখে যে সংখ্যাগুলো চান সেগুলোতে ট্যাপ করুন।</string>
+    <string name="mode_off_desc">নোটে কোনো হিসাব হবে না।</string>
+    <string name="default_mode">নোটের ডিফল্ট মোড</string>
+    <string name="default_symbol">অন্য শব্দ ও শুধু = এর জন্য চিহ্ন</string>
+    <string name="calc_words">হিসাবের শব্দ</string>
+    <string name="calc_words_help">= এর আগের শব্দ ঠিক করে উপরের সংখ্যাগুলোর কী হবে। চিহ্নে ট্যাপ করে বদলান।</string>
+    <string name="add_word">নতুন শব্দ</string>
+    <string name="reset_defaults">আগের অবস্থায় ফেরান</string>
+    <string name="heading_tip">শিরোনামের শেষে : দিন, তাহলে তার সংখ্যা যোগ হবে না, যেমন Bazar 1:</string>
+    <string name="pick_numbers">যোগ করতে সংখ্যায় ট্যাপ করুন</string>
+    <string name="remove_from_calc">%1$s বাদ দিন</string>
+    <string name="add_back">%1$s আবার যোগ করুন</string>
+</resources>

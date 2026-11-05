@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smart Notes</string>
+    <string name="search_hint">Search your notes</string>
+    <string name="notes">Notes</string>
+    <string name="archive">Archive</string>
+    <string name="trash">Trash</string>
+    <string name="labels">Labels</string>
+    <string name="edit_labels">Edit labels</string>
+    <string name="backup">Back up notes</string>
+    <string name="restore_backup">Restore backup</string>
+    <string name="language">Language</string>
+    <string name="lang_system">Phone default</string>
+    <string name="pinned">Pinned</string>
+    <string name="others">Others</string>
+    <string name="empty_notes">Notes you add appear here</string>
+    <string name="empty_archive">Your archived notes appear here</string>
+    <string name="empty_trash">No notes in Trash</string>
+    <string name="empty_search">No matching notes</string>
+    <string name="empty_label">No notes with this label yet</string>
+    <string name="trash_info">Notes in Trash are deleted after 7 days.</string>
+    <string name="empty_trash_btn">Empty Trash</string>
+    <string name="empty_trash_confirm">Delete all notes in Trash forever?</string>
+    <string name="title_hint">Title</string>
+    <string name="note_hint">Note</string>
+    <string name="list_item">List item</string>
+    <string name="checked_items">%1$d checked items</string>
+    <string name="more_items">+ %1$d more</string>
+    <string name="note_trashed">Note moved to Trash</string>
+    <string name="note_archived">Note archived</string>
+    <string name="empty_discarded">Empty note discarded</string>
+    <string name="undo">Undo</string>
+    <string name="restore">Restore</string>
+    <string name="delete_forever">Delete forever</string>
+    <string name="trashed_note">This note is in Trash</string>
+    <string name="share">Share</string>
+    <string name="share_image">As image</string>
+    <string name="share_pdf">As PDF</string>
+    <string name="share_text">As text</string>
+    <string name="color">Color</string>
+    <string name="pin">Pin</string>
+    <string name="unpin">Unpin</string>
+    <string name="archive_action">Archive</string>
+    <string name="unarchive">Unarchive</string>
+    <string name="delete">Delete</string>
+    <string name="show_checkboxes">Show checkboxes</string>
+    <string name="hide_checkboxes">Hide checkboxes</string>
+    <string name="calc_on">Auto calculate is on</string>
+    <string name="calc_off">Auto calculate is off</string>
+    <string name="total">Total: %1$s</string>
+    <string name="edited">Edited %1$s</string>
+    <string name="new_note">New note</string>
+    <string name="new_list">New list</string>
+    <string name="create_label">Create new label</string>
+    <string name="add">Add</string>
+    <string name="done">Done</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_label">Delete label</string>
+    <string name="backup_done">Backup saved</string>
+    <string name="restore_done">Restored %1$d notes</string>
+    <string name="restore_failed">Could not read this backup file</string>
+    <string name="back">Back</string>
+    <string name="menu">Menu</string>
+    <string name="clear">Clear</string>
+    <string name="calc_tip">Tip: end a line with = to calculate (10+20 =). Under a list, type total = to add it up.</string>
+    <string name="calculation">Calculation</string>
+    <string name="calc_mode">Calculation mode</string>
+    <string name="mode_auto">Auto</string>
+    <string name="mode_manual">Manual</string>
+    <string name="mode_off">Off</string>
+    <string name="mode_default">App default (%1$s)</string>
+    <string name="mode_auto_desc">Fills in totals for you. Tap a coloured number to leave it out.</string>
+    <string name="mode_manual_desc">Type total = then tap the numbers you want.</string>
+    <string name="mode_off_desc">No calculation in notes.</string>
+    <string name="default_mode">Default mode for notes</string>
+    <string name="default_symbol">Symbol for other words and a plain =</string>
+    <string name="calc_words">Calculation words</string>
+    <string name="calc_words_help">The word before = decides what happens to the numbers above it. Tap a symbol to change it.</string>
+    <string name="add_word">New word</string>
+    <string name="reset_defaults">Reset to defaults</string>
+    <string name="heading_tip">End a heading with : so its number is not counted, e.g. Bazar 1:</string>
+    <string name="pick_numbers">Tap numbers to add</string>
+    <string name="remove_from_calc">Leave %1$s out</string>
+    <string name="add_back">Add %1$s back</string>
+</resources>
